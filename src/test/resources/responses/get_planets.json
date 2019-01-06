@@ -1,0 +1,12 @@
+{
+  "count": 1,
+  "results": [
+    {
+      "name": "Yavin",
+      "films": [
+        "https://swapi.co/api/films/1/"
+      ],
+      "url": "https://swapi.co/api/planets/3/"
+    }
+  ]
+}
